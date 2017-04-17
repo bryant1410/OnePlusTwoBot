@@ -64,7 +64,7 @@ Steps to use:
 3. Download and install Requests (http://docs.python-requests.org/en/latest/)
 4. Run! (`python GuerrillaMailExploit.py`)
 
-##Additional Components
+## Additional Components
 
 ### gmailClicker - OnePlusTwo
 Click on the confirmation link in a gmail message
